@@ -15,6 +15,8 @@ Major Lidar types:
 - Mount position
     * rooftop: farthest field of view (Up side of the vehicles)
     * front, back and side: coverage for the blindspot of rooftop lidars (In general they are not as strong as rooftops)
+![image](https://github.com/cavadibrahimli1/Udacity-Sensor-Fusion-Nanodegree-Javad-Ibrahimli/assets/76445357/8dc019cc-52f3-44e8-a0cc-5fe1433c7386)
+
 
 - Resolution
     * more layers of laser in the vertical field of view, to avoid an object hiding between the gap of two layers
